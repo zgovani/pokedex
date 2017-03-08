@@ -2,8 +2,8 @@
 //  PokemonGenerator.swift
 //  Pokedex
 //
-//  Created by SAMEER SURESH on 9/25/16.
-//  Copyright © 2016 trainingprogram. All rights reserved.
+//  Created by Zach Govani on 9/25/16.
+//  Copyright © 2016 Zach Govani. All rights reserved.
 //
 
 import Foundation
