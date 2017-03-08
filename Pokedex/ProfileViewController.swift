@@ -2,8 +2,8 @@
 //  ProfileViewController.swift
 //  Pokedex
 //
-//  Created by Shireen Warrier on 2/15/17.
-//  Copyright © 2017 trainingprogram. All rights reserved.
+//  Created by Zach Govani on 2/15/17.
+//  Copyright © 2017 Zach Govani. All rights reserved.
 //
 
 import UIKit
